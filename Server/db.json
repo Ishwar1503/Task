@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Jeanette",
+      "last_name": "Penddreth",
+      "email": "jpenddreth0@census.gov",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "first_name": "Giavani",
+      "last_name": "Frediani",
+      "email": "gfrediani1@senate.gov",
+      "gender": "Male"
+    },
+    {
+      "first_name": "sss",
+      "last_name": "fff",
+      "email": "ffff",
+      "gender": "Male",
+      "id": 5
+    },
+    {
+      "first_name": "hhhh",
+      "last_name": "sss",
+      "email": "df",
+      "gender": "Female",
+      "id": 6
+    },
+    {
+      "first_name": "ww`",
+      "last_name": "gg",
+      "email": "gg",
+      "gender": "Female",
+      "id": 7
+    },
+    {
+      "first_name": "ww`",
+      "last_name": "gg",
+      "email": "gg",
+      "gender": "Female",
+      "id": 8
+    },
+    {
+      "first_name": "a",
+      "last_name": "h",
+      "email": "j",
+      "gender": "Male",
+      "id": 9
+    },
+    {
+      "first_name": "Tupe",
+      "last_name": "Rajendra",
+      "email": "ishwart5001@gmail.com",
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "first_name": "Tupe",
+      "last_name": "Rajendra",
+      "email": "ishwart5001@gmail.com",
+      "gender": "Female",
+      "id": 11
+    },
+    {
+      "first_name": "Tupe",
+      "last_name": "Rajendra",
+      "email": "ishwart5001@gmail.com",
+      "gender": "Female",
+      "id": 12
+    },
+    {
+      "first_name": "qq",
+      "last_name": "qq",
+      "email": "qq",
+      "gender": "",
+      "id": 13
+    },
+    {
+      "first_name": "qq",
+      "last_name": "qq",
+      "email": "qq",
+      "gender": "Male",
+      "id": 14
+    },
+    {
+      "first_name": "Tupe",
+      "last_name": "Rajendra",
+      "email": "ishwart5001@gmail.com",
+      "gender": "Male",
+      "id": 15
+    },
+    {
+      "first_name": "qq",
+      "last_name": "qq",
+      "email": "qq",
+      "gender": "Male",
+      "id": 16
+    },
+    {
+      "first_name": "qq",
+      "last_name": "qq",
+      "email": "qq",
+      "gender": "Male",
+      "id": 17
+    },
+    {
+      "first_name": "kkkkk",
+      "last_name": "kkkkkk",
+      "email": "kkk@Kkk",
+      "gender": "Male",
+      "id": 18
+    }
+  ]
+}
